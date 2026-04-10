@@ -3,6 +3,12 @@
 
 A modern, full-stack **story creation and sharing platform** built with Next.js, React, and AI-powered features. Create, edit, read, and discover stories with intelligent writing assistance and AI-generated imagery.
 
+## 🚀 Live Demo
+
+**[View Live Website](https://story-forge-dusky.vercel.app/)** - Click here to visit the deployed application!
+
+---
+
 ## 🌟 Features
 
 ### Core Functionality

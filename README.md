@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # StoryForge 📖
 
 A modern, full-stack **story creation and sharing platform** built with Next.js, React, and AI-powered features. Create, edit, read, and discover stories with intelligent writing assistance and AI-generated imagery.
@@ -212,6 +211,3 @@ For questions or support, feel free to reach out or open an issue on the reposit
 **Happy Writing! ✍️**
 
 Made with ❤️ by StoryForge Contributors
-=======
-# StoryForge
->>>>>>> 751f293aee0b51d9887e6a8c4bb582ad7674ffb1
